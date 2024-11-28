@@ -1,0 +1,10 @@
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
+
+
+**Staff Login Details**
+
+Username: staff
+Password: pass
